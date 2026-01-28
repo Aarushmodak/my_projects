@@ -1,4 +1,4 @@
 # my_projects
 This repository will contain my all Python projects.
 <br>
-Author - Aarush Modak
+Author - Aarush
